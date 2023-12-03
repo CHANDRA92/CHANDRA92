@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I have a strong enthusiasm for learning new things
 
 ## 🔧 Technologies & Tools
 
-[Add logos or badges of technologies/tools you're familiar with, e.g., ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]
+[[Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]
 
 ## 🌐 Connect with Me
 
