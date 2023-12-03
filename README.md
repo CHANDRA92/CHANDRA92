@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about [Your Interests or Skills]. H
 
 ## 🚀 About Me
 
-- 💼 Currently working as [Your Job Title] at [Your Company].
+- 💼 Currently working as Student at Asansol Engineering College.
 - 🌱 I'm currently learning MERN & Django.
 - 💬 Ask me about [Your Expertise or Interests].
 - 📫 How to reach me: [Your Email Address]
