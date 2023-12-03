@@ -5,8 +5,7 @@ Welcome to my GitHub profile! I'm passionate about [Your Interests or Skills]. H
 ## 🚀 About Me
 
 - 💼 Currently working as [Your Job Title] at [Your Company].
-- 🌱 I'm currently learning [Something Interesting].
-- 🤔 I'm looking for help with [Something You Need Help With].
+- 🌱 I'm currently learning MERN & Django.
 - 💬 Ask me about [Your Expertise or Interests].
 - 📫 How to reach me: [Your Email Address]
 
@@ -22,19 +21,13 @@ Welcome to my GitHub profile! I'm passionate about [Your Interests or Skills]. H
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHANDRA92&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHANDRA92&layout=compact&theme=radical)
 
 ## 📈 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
-
-## 🎉 Fun Facts
-
-- [Fun Fact 1]
-- [Fun Fact 2]
-- [Fun Fact 3]
+![Profile Views](https://komarev.com/ghpvc/?username=CHANDRA92)
 
 Thanks for stopping by! 😊
 
