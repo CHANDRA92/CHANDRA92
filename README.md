@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I have a strong enthusiasm for learning new things
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-- ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-00D8FF?style=flat&logo=mongodb&logoColor=white&labelColor=black&label=)
+- ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-00D8FF?style=flat&logo=mongodb&logoColor=white&labelColor=00D8FF&label=)
 
 ## 🌐 Connect with Me
 
