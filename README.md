@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Chandra !
 
 Welcome to my GitHub profile! I'm passionate about [Your Interests or Skills]. Here, you'll find a collection of my projects, contributions, and some interesting stuff. Feel free to explore and get in touch.
 
