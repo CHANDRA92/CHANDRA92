@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm passionate about [Your Interests or Skills]. H
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue)](https://www.linkedin.com/in/yourlinkedinprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-blue)](https://twitter.com/yourtwitterhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue)](https://www.linkedin.com/in/chandra-sekhar-karmakar/)
+[![Facebook](https://img.shields.io/badge/Facebook-YourTwitterHandle-blue)](https://twitter.com/yourtwitterhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolio-blue)](https://yourportfolio.com)
 
 ## 📊 GitHub Stats
