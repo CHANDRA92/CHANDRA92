@@ -12,11 +12,11 @@ Welcome to my GitHub profile! I have a strong enthusiasm for learning new things
 
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 - ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-00D8FF?style=flat&logo=mongodb&logoColor=white&labelColor=00D8FF&label=)
 
 ## 🌐 Connect with Me
