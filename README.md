@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm passionate about [Your Interests or Skills]. H
 
 - 💼 Currently working as Student at Asansol Engineering College.
 - 🌱 I'm currently learning MERN & Django.
-- 💬 Ask me about [Your Expertise or Interests].
-- 📫 How to reach me: [Your Email Address]
+-- 📫 How to reach me: [c.s.karmakar0@gmail.com](mailto:c.s.karmakar0@gmail.com)
 
 ## 🔧 Technologies & Tools
 
