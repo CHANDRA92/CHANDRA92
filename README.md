@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I have a strong enthusiasm for learning new things
 
 - 💼 Currently working as Student at Asansol Engineering College.
 - 🌱 I'm currently learning MERN & Django.
--- 📫 How to reach me: [c.s.karmakar0@gmail.com](mailto:c.s.karmakar0@gmail.com)
+- 📫 How to reach me: [c.s.karmakar0@gmail.com](mailto:c.s.karmakar0@gmail.com)
 
 ## 🔧 Technologies & Tools
 
