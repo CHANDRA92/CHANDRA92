@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Chandra !
 
-Welcome to my GitHub profile! I'm passionate about [Your Interests or Skills]. Here, you'll find a collection of my projects, contributions, and some interesting stuff. Feel free to explore and get in touch.
+Welcome to my GitHub profile! I have a strong enthusiasm for learning new things every day. Here, you'll find a collection of my projects, contributions, and some interesting stuff. Feel free to explore and get in touch.
 
 ## 🚀 About Me
 
