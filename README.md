@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I have a strong enthusiasm for learning new things
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chandra_Sekhar_Karmakar-blue)](https://www.linkedin.com/in/chandra-sekhar-karmakar/)
 [![Facebook](https://img.shields.io/badge/Facebook-Chandra_Sekhar_Karmakar-blue)](https://www.facebook.com/CSKarmakar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Chandra_Sekhar_Karmakar-blue)](https://l.facebook.com/l.php?u=https%3A%2F%2Fchandra92.github.io%2FMy-Resume%2F%3Ffbclid%3DIwAR0Q1uzKNmJuEQt-PkohFNwbCFEB5m-t8SXA5LsclLJ-JW6jC8oxpvuvt5A%23&h=AT0t0x-V2W97xOyb4-PH67G7nwU9tDhmrsoietasdCJkV_wrwEntNbBE02HqmVvmecwa3TRXPXvNiF0Hs-tynHe6h_hBvwHcSzY_xTlfgq0jHE9_DSJWyoCV2xpQE_BXV_8RsGwHbDvDaA)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Chandra_Sekhar_Karmakar-blue)](https://chandrashowcase.netlify.app/)
 
 ## 📊 GitHub Stats
 
